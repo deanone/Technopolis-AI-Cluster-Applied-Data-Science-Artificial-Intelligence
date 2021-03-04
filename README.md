@@ -1,4 +1,4 @@
-This repo contains the original content I created for the purposes of the "Applied Data Science & Artificial Intelligence" course organized by the Technopolis AI Cluster (https://www.ai-cluster.gr/), in which I participated as a tutor.
+This repo contains the original content I created for the purposes of the "Applied Data Science & Artificial Intelligence" course organized by the Technopolis AI Cluster (https://www.ai-cluster.gr/) in which I participated as a tutor.
 
 The repo includes content (i.e. Jupyter notebooks) from the following lectures:
 
