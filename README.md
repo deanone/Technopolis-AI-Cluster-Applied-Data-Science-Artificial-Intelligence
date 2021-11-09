@@ -1,6 +1,6 @@
-This repository contains the original content I created for the purposes of the "Applied Data Science & Artificial Intelligence" course organized by the Technopolis AI Cluster (https://www.ai-cluster.gr/) in which I participated as a tutor.
+This repository contains the original content I created for the purposes of the "Applied Data Science & Artificial Intelligence" course, organized by the Technopolis AI Cluster (https://www.ai-cluster.gr/), in which I participated as a tutor.
 
-The repository includes content (i.e. Jupyter notebooks) from the following lectures:
+The repository contains material, in the form of Jupyter notebooks along with the corresponding datasets, regarding the following lectures:
 
 1. Lecture 4 - Data engineering with Python
 	1. Anaconda
